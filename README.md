@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="![Image](https://github.com/user-attachments/assets/0b73d9ce-fb18-47c1-a83d-e49c6e4d2b20)" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  BOTS KINGDOMS
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
