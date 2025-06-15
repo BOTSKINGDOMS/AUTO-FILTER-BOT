@@ -1,9 +1,4 @@
-<p align="center">
-
-
-  (https://github.com/user-attachments/assets/0b73d9ce-fb18-47c1-a83d-e49c6e4d2b20)
-  <img src="![Image](https://github.com/user-attachments/assets/0b73d9ce-fb18-47c1-a83d-e49c6e4d2b20)" alt="VJ-Filter-Bot Logo">
-</p>
+![Image](https://github.com/user-attachments/assets/b14b0123-83a0-4a39-b302-b9ddf97a9071)
 <h1 align="center">
   BOTS KINGDOMS
 </h1>
