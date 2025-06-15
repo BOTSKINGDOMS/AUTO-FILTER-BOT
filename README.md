@@ -35,7 +35,7 @@
 
 Join My <a href='https://t.me/BOTSKINGDOMS'>Update Channel</a> For More Update Regarding Repo.</b>
 
-### HELO : [CHAT IN SUPPORT GROUP](https://t.me/BOTSKINGDOMS)
+### HELP : [CHAT IN SUPPORT GROUP](https://t.me/BOTSKINGDOMS)
 
 ## Commands
 ```
