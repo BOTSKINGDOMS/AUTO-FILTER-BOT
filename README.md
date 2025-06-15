@@ -184,19 +184,19 @@ Edit info.py with variables as given below then run bot
 
 ## Thanks to 
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ) To Modify And Add Amazing Feature In The Repo
- - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
+ - Thanks To [ALL](https://t.me/BOTSKINGDOMS) To Modify And Add Amazing Feature In The Repo
+ - Thanks To [ALL](https://t.me/BOTSKINGDOMS) For Base Repo
  - Thanks To All Everyone In This Journey</b>
 
 ## Note 🏷️
  
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/BOTSKINGDOMS) 
 
 <b>Fork The Repo And Edit As Per Your Needs.</b>
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-<b>Licensed under [GNU AGPL 2.0.](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/LICENSE)
+<b>Licensed under [GNU AGPL 2.0.](https://t.me/BOTSKINGDOMS)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 
 </pre>
